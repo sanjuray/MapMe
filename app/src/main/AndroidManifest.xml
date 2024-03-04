@@ -26,7 +26,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBEJgBMk9mSiCEfSncEXBrGurji05vDp24" />
+            android:value="Enter API KEY (Check whether the Maps SDK is enabled in Gooogle Cloud Console)" />
 
         <activity
             android:name=".MapsActivity"
